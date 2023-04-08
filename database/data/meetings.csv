@@ -1,0 +1,6 @@
+title,status,class_slug,hero_image,time,zoom_link_url,video_recording_url
+test meeting 1,upcoming,indian-street-food,"test-meeting-1.jpeg",2021-11-11 11:12:12,https://zoom-link.example,https://video.example
+test meeting 2,upcoming,smoked-salmon-with-scrambled-egg-from-scratch,"test-meeting-2.jpeg",2021-11-12 2:12:12,https://zoom-link.example,https://video.example
+test meeting 3,upcoming,jumbo-prawns-manchurian,"test-meeting-3.jpeg",2021-11-14 1:12:12,https://zoom-link.example,https://video.example
+test meeting 4,upcoming,indian-street-food,"test-meeting-4.jpeg",2021-11-16 4:12:12,https://zoom-link.example,https://video.example
+test meeting 5,upcoming,smoked-salmon-with-scrambled-egg-from-scratch,"test-meeting-5.jpeg",2021-11-17 11:12:12,https://zoom-link.example,https://video.example

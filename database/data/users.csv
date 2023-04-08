@@ -1,0 +1,22 @@
+id,name,email,password,role,hero_image
+1,Jane,jane@example.com,jane123,user,user-2.jpeg
+2,Michael,michael@example.com,michael123,user,user-3.jpeg
+3,Josh,josh@example.com,josh123,user,user-5.jpeg
+4,Kane,kane@example.com,kane123,user,user-6.jpeg
+5,Jos,jos@example.com,jos123,user,user-7.jpeg
+6,Max,max@example.com,max123,user,user-8.jpeg
+7,Kat,kat@example.com,kat123,user,user-9.jpeg
+8,Admin,admin@example.com,admin123,admin,user-10.jpeg,
+9,Chef Mike,mike@example.com,mike123,owner
+10,Chef John,john@example.com,john123,owner,chef-john.png
+11,Chef Anna,anna@example.com,anna123,owner,chef-anna.png
+12,Chef Antonio,antonio@example.com,antonio123,owner,chef-antonio.png
+13,Chef Jessica,jessica@example.com,jessica123,owner,chef-jessica.png
+14,Chef Mark,mark@example.com,mark123,owner,chef-mark.png
+15,Chef Javier,javier@example.com,javier123,owner,chef-javier.png
+16,Chef Juni,juni@example.com,juni123,owner,chef-juni.png
+17,Chef David,david@example.com,david123,owner,chef-david.png
+18,Chef Amaan,amaan@example.com,amaan123,owner,chef-amaan.png
+19,Chef Deniz,deniz@example.com,deniz123,owner,chef-deniz.png
+20,Chef Giorgi,giorgi@example.com,giorgi123,owner,chef-girogi.png
+21,Chef Mate,mate@example.com,mate123,owner,chef-mate.png

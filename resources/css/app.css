@@ -1,0 +1,15 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+.btn-checkbox:checked + * {
+    background-color: #f39200;
+}
+
+select:invalid {
+    color: rgba(156, 163, 175, 1) !important;
+}
+
+.max-h-0 {
+    max-height: 0;
+}

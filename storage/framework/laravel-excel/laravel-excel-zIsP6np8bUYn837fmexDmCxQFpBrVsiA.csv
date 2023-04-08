@@ -1,0 +1,21 @@
+title,slug,category-slug,hero_image,bgColor,textColor
+15 min breakfast,15-min-breakfast,popular,15-min-breakfast.jpeg,#FC440F,#FFFFFF
+15 min lunch,15-min-lunch,popular,lunch.jpeg,"#FC440F",#FFFFFF
+15 min dinner,15-min-dinner,popular,15-min-dinner.jpeg,"#FC440F","#FFFFFF"}
+30 min breakfast,30-min-breakfast,popular,breakfast.jpeg,"#1EFFBC","#3632E9"}
+30 min lunch,30-min-lunch,popular,30-min-lunch.jpeg,"#1EFFBC","#3632E9"}
+30 min dinner,30-min-dinner,popular,dinner.jpeg,"#1EFFBC","#3632E9"}
+Weekly meal prep,weekly-meal-prep,quick-cook,weekly-meal-prep.jpeg,"#1F01B9","#FFFFFF"}
+Longer Cook,longer-cook,quick-cook,longer-cook.jpeg,"#1F01B9","#FFFFFF"}
+Desserts,desserts,quick-cook,desserts.jpeg,"#1F01B9","#FFFFFF"}
+Baking,baking,quick-cook,baking.jpeg,"#1F01B9","#FFFFFF"}
+Brunch,brunch,quick-cook,brunch.jpeg,"#1F01B9","#FFFFFF"}
+Christmas,christmas,quick-cook,christmas.jpeg,"#B4E33D","#3632E9"}
+Date Night,date-night,quick-cook,date-night.jpeg,"#B4E33D","#3632E9"}
+Chinese,chinese,cuisines,chinese.jpeg
+Indian,indian,cuisines,indian.jpeg
+Italian,italian,cuisines,italian.jpeg
+Thai,thai,cuisines,thai.jpeg
+Asian,asian,cuisines,asian.jpeg
+Fusion,fusion,cuisines,fusion.jpeg
+Continental,continental,cuisines,continental.jpeg
